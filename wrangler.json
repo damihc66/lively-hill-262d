@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lively-hill-262d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "10d7ba75-85a3-49ea-94aa-2ba25dfbce53",
+      "database_name": "bitter-voice-ceeb-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
